@@ -12,3 +12,4 @@ How to run:
 1. Open Test Runner class and right click.
 2. Select RunAs-> Testng test
 3. two scenarios will run
+4. at every re-run amke sure email id is updated in the "Scenario: User signs in with the newly created account"
