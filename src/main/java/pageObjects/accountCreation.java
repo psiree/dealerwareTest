@@ -11,7 +11,8 @@ public class accountCreation {
 	WebDriver driver = null;
 	
 	public accountCreation() {
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\psire\\part\\CucumberJava\\src\\test\\resources\\Drivers\\chromedriver.exe");		
+		//Change the driver path 
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\psire\\part\\CucumberJava\\dealerwareTest\\src\\test\\resources\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 	}
 	
