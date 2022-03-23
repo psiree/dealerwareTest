@@ -3,7 +3,7 @@ Feature: login functionality
 @sample
 Scenario: User signs in with the newly created account
 	Given User navigates to the home page
-	And User creates a new account with login "siriabc126@gmail.com" and password "lkdsaklps" and default information
+	And User creates a new account with login "siriabc127@gmail.com" and password "lkdsaklps" and default information
 	Then User signs out
 	
 @sample
